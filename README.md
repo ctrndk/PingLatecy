@@ -1,1 +1,3 @@
-# PingLatecy
+# PingLatecy batch
+-- google.com
+#
