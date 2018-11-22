@@ -1,3 +1,3 @@
 # PingLatecy batch
--- google.com
+- ping to ```google.com```
 #
